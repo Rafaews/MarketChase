@@ -67,7 +67,7 @@
 
 					<div class="tab-pane" id="contato">
 						<div class="col-md-12">
-							<br /> <br /> <br /> <br /> <br />teste
+							<br /> <br /> <br /> <br /> <br />t
 						</div>
 					</div>
 
