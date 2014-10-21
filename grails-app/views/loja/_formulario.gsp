@@ -16,39 +16,11 @@
 						<div class="col-md-12">
 
 							<div class="form-group">
-								<label for="nomeLoja" class="col-sm-2 control-label">Nome
-									Fantasia</label>
+								<label for="nomeLoja"
+									class="col-sm-1 col-sm-offset-1 control-label">Loja</label>
 								<div class="col-sm-8">
-									<input type="text" name="nomeFantasia" class="form-control"
-										required="required" id="nomeLoja"
-										placeholder="Nome da Fantasia Loja">
-								</div>
-							</div>
-
-							<div class="form-group">
-								<label for="razaoSocial" class="col-sm-2 control-label">Razão
-									Social</label>
-								<div class="col-sm-8">
-									<input type="text" name="razaoSocial" class="form-control"
-										required="required" id="razaoSocial"
-										placeholder="Razão Social">
-								</div>
-							</div>
-
-							<div class="form-group">
-								<label for="cnpj" class="col-sm-2  control-label">CNPJ</label>
-								<div class="col-sm-3">
-									<input type="text" name="categoria"
-										placeholder="Somente números" id="cnpj" class="form-control">
-								</div>
-								
-								<label for="categoriaLoja" class="col-sm-2  control-label">Ramo
-									de atuação</label>
-								<div class="col-sm-3">
-									<select name="categoria" id="categoriaLoja"
-										class="form-control">
-										<option>Selecione uma Categoria</option>
-									</select>
+									<input type="text" class="form-control" required="required"
+										id="nomeLoja" placeholder="Nome da Loja">
 								</div>
 							</div>
 
@@ -67,7 +39,25 @@
 								</div>
 							</div>
 
-
+							<div class="form-group">
+								<label for="nomeLoja" class="col-sm-2  control-label">Ramo
+									de atuação</label>
+								<div class="col-sm-3">
+									<select name="categoria" id="categoriaLoja"
+										class="form-control">
+										<option value="1">Selecione uma Categoria</option>
+										<option value="2">Qualquer1</option>
+										<option value="3">Qualquer2</option>
+										<option value="4">Qualquer3</option>
+										<option value="5">Qualquer4</option>
+										<option value="6">Qualquer5</option>
+										<option value="7">Qualquer6</option>
+										<option value="8">Qualquer7</option>
+										<option value="9">Qualquer8</option>
+										<option value="10">Qualquer9</option>
+									</select>
+								</div>
+							</div>
 							<div class="col-sm-8 col-sm-offset-2">
 								<a href="#endereco" data-toggle="tab"
 									class="btn btn-default btn-lg pull-right"><span
