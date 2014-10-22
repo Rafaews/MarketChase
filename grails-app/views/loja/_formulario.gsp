@@ -45,12 +45,22 @@
 								<div class="col-sm-3">
 									<select name="categoria" id="categoriaLoja"
 										class="form-control">
-										<option>Selecione uma Categoria</option>
+										<option value="1">Selecione uma Categoria</option>
+										<option value="2">Qualquer1</option>
+										<option value="3">Qualquer2</option>
+										<option value="4">Qualquer3</option>
+										<option value="5">Qualquer4</option>
+										<option value="6">Qualquer5</option>
+										<option value="7">Qualquer6</option>
+										<option value="8">Qualquer7</option>
+										<option value="9">Qualquer8</option>
+										<option value="10">Qualquer9</option>
 									</select>
 								</div>
 							</div>
 							<div class="col-sm-8 col-sm-offset-2">
-								<a href="#endereco" data-toggle="tab" class="btn btn-default btn-lg pull-right"><span
+								<a href="#endereco" data-toggle="tab"
+									class="btn btn-default btn-lg pull-right"><span
 									class="glyphicon glyphicon-arrow-right"></span></a>
 							</div>
 						</div>
@@ -59,7 +69,8 @@
 					<div class="tab-pane" id="endereco">
 						<div class="col-md-12">
 							<div class="col-sm-8 col-sm-offset-2">
-								<a href="#contato" data-toggle="tab" class="btn btn-default btn-lg pull-right"><span
+								<a href="#contato" data-toggle="tab"
+									class="btn btn-default btn-lg pull-right"><span
 									class="glyphicon glyphicon-arrow-right"></span></a>
 							</div>
 						</div>
@@ -77,6 +88,4 @@
 		</div>
 	</div>
 </div>
-
-</div>
-</div>
+<br />

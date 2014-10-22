@@ -31,7 +31,9 @@
 						alt="MarketChase" style="margin: 30px auto 0px auto;" />
 				</div>
 				<div class="col-md-8">
-					<h1 style="margin-top: 10%; font-family: Copperplate Gothic; font-weight: bolder;">Atinja seu alvo</h1>
+					<h1
+						style="margin-top: 10%; font-family: Copperplate Gothic; font-weight: bolder;"
+						class="text-center">Atinja seu alvo</h1>
 				</div>
 			</div>
 		</div>
