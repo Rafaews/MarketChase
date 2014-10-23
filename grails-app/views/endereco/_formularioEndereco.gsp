@@ -1,7 +1,3 @@
-<!-- 
-	 Ponto de Referencia
-	 Complemento -->
-	 
 <div class="form-group">
 	<label for="logradouro" class="col-sm-2 control-label">Logradouro</label>
 	<div class="col-sm-8">

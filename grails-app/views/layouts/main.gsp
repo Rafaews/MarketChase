@@ -41,7 +41,7 @@
 		<r:layoutResources />
 		<div class="container-fluid">
 			<footer class="panel-footer panel panel">
-				<h4>Footer</h4>
+				<h4 class="text-center">footer</h4>
 			</footer>
 		</div>
 	</div>
