@@ -63,11 +63,9 @@
 								<div class="col-sm-11">
 									<a href="#endereco" data-toggle="tab" onclick="tabEndereco();"
 										class="btn btn-default btn-lg pull-left"><span
-										class="glyphicon glyphicon-arrow-left"></span></a>
-										<a
-										href="#contato" data-toggle="tab" onclick="tabContato()"
-										class="btn btn-default btn-lg pull-right"><span
-										class="glyphicon glyphicon-floppy-disk"></span> Salvar</a>
+										class="glyphicon glyphicon-arrow-left"></span></a> <input
+										type="submit" value="Salvar"
+										class="btn btn-default btn-lg pull-right" />
 
 								</div>
 							</div>
