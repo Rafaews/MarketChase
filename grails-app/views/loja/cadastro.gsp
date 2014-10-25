@@ -22,7 +22,7 @@
 				</ul>
 
 				<g:formRemote name="frmLoja"
-					url="[controller:'loja', action:'cadastro']"
+					url="[controller:'loja', action:'salvar']"
 					class="form-horizontal">
 					<div class="tab-content">
 						<br />
